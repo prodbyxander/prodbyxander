@@ -37,8 +37,6 @@
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 ###
 
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=prodbyxander&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
