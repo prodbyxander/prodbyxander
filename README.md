@@ -28,9 +28,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prodbyxander/prodbyxander/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prodbyxander/prodbyxander/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/prodbyxander/prodbyxander/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://profile-readme-generator.com/assets/pacman.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://profile-readme-generator.com/assets/pacman.svg">
+  <img alt="pacman contribution graph" src="https://profile-readme-generator.com/assets/pacman.svg">
 </picture>
 
 ###
