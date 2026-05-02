@@ -1,4 +1,4 @@
-<h2 align="center">🌐14 y/o 🌐<br>🧑‍💻 Software Developer & Web Designer 🔟<br>🌀 I typically mod games to make them more interesting and comical. 🩸</h2>
+<h2 align="center">🌐15 y/o 🌐<br>🧑‍💻 Software Developer & Web Designer 🔟<br>🌀 I typically mod games to make them more interesting and comical. 🩸</h2>
 
 ###
 
